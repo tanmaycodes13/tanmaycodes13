@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Typescript with graphql. Really excited about this.
 - 💞️ I’m looking to collaborate on any fullstack project on django
 - 📫 How to reach me Say hi @ tanmaycodes@outlook.com  or check me out @ https://www.linkedin.com/in/tanmay-7a0806173/
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am the very few who is not trying to learn the MERN stack , still interested in doing this the SQL way 😄
 
 <!---
