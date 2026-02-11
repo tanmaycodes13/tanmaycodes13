@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanmaycodes13
 - 📫 How to reach me Say hi @ tanmaycodes@outlook.com  or check me out @ https://www.linkedin.com/in/tanmay-7a0806173/
-- Website@ https://tanmayportfolio.live/
+- Website@ https://tanmaycodes13.github.io
 
 <!---
 tanmaycodes13/tanmaycodes13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
